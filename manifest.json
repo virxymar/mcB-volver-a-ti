@@ -1,0 +1,26 @@
+{
+  "name": "Método McB · Mindfulness del Cuidado",
+  "short_name": "Método McB",
+  "description": "Mindfulness del Cuidado: temario, ritual de 21 días y certificado final.",
+  "start_url": "./app.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#fbfaf8",
+  "theme_color": "#c9b3a6",
+  "lang": "es-ES",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
